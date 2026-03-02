@@ -4,7 +4,7 @@
 
 ### Linux
 
-```bash
+```bash 
 ss -tuln | grep 8088
 # или
 netstat -tuln | grep 8088
